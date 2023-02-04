@@ -1,0 +1,15 @@
+/Users/aleksander/Desktop/home work/Home_work/bin/Debug/net6.0/Home_work
+/Users/aleksander/Desktop/home work/Home_work/bin/Debug/net6.0/Home_work.deps.json
+/Users/aleksander/Desktop/home work/Home_work/bin/Debug/net6.0/Home_work.runtimeconfig.json
+/Users/aleksander/Desktop/home work/Home_work/bin/Debug/net6.0/Home_work.dll
+/Users/aleksander/Desktop/home work/Home_work/bin/Debug/net6.0/Home_work.pdb
+/Users/aleksander/Desktop/home work/Home_work/obj/Debug/net6.0/Home_work.csproj.AssemblyReference.cache
+/Users/aleksander/Desktop/home work/Home_work/obj/Debug/net6.0/Home_work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksander/Desktop/home work/Home_work/obj/Debug/net6.0/Home_work.AssemblyInfoInputs.cache
+/Users/aleksander/Desktop/home work/Home_work/obj/Debug/net6.0/Home_work.AssemblyInfo.cs
+/Users/aleksander/Desktop/home work/Home_work/obj/Debug/net6.0/Home_work.csproj.CoreCompileInputs.cache
+/Users/aleksander/Desktop/home work/Home_work/obj/Debug/net6.0/Home_work.dll
+/Users/aleksander/Desktop/home work/Home_work/obj/Debug/net6.0/refint/Home_work.dll
+/Users/aleksander/Desktop/home work/Home_work/obj/Debug/net6.0/Home_work.pdb
+/Users/aleksander/Desktop/home work/Home_work/obj/Debug/net6.0/Home_work.genruntimeconfig.cache
+/Users/aleksander/Desktop/home work/Home_work/obj/Debug/net6.0/ref/Home_work.dll
